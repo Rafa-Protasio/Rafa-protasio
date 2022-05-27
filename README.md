@@ -11,4 +11,3 @@
 </div>
   
  ![Snake animation](https://github.com/rafaballerini/rafa-protasio/blob/output/github-contribution-grid-snake.svg)
- 
