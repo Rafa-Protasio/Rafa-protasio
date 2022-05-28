@@ -10,3 +10,4 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-protasio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106021270/170837915-c4a4d979-66a7-47e5-851b-60106d9dc6fe.gif)
