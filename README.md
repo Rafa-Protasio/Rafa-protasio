@@ -10,4 +10,3 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-protasio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![snake gif](https://github.com/rafa-protasio/rafa-protasio/blob/output/github-contribution-grid-snake.svg
