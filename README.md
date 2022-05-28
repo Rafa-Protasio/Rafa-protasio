@@ -10,4 +10,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-protasio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ![Snake animation](https://github.com/rafaballerini/rafa-protasio/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" alt="Rafa-protasio" src="https://discordapp.com/channels/@me/805765739695833108/979897058456657961
+">
+  ![Snake animation](https://github.com/rafaballerini/rafa-protasio/blob/output/github-contribution-grid-snake.svg)
