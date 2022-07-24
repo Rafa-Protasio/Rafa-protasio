@@ -1,6 +1,6 @@
 ### Hello! i am Rafaela Protasio
 
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning JavaScript 
 - 😄 Pronouns: Ela/dela
 
 
