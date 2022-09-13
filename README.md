@@ -18,6 +18,3 @@
   <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
   </div>
-<div>
-  [Snake animation](https://github.com/rafa-protasio/rafa-protasio/blob/output/github-contribution-grid-snake.svg)
-  </div>
