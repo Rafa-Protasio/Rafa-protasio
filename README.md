@@ -20,3 +20,5 @@
   <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
   </div>
+
+[![Minhas habilidades](https://skills.thijs.gg/icons ?i=linux,git,js,nodejs,mysql,py)](https://skills.thijs.gg)
