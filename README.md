@@ -2,9 +2,9 @@
 Curious and passionate about technology since childhood. 
 Currently studying Systems Analysis and Development at Faculdade Descomplica and also participating in the Mais1Code bootcamp in partnership with Grupo SBF
 
-<div align="right">
+<div align="center">
 <img width="40%" alt="Gif" src="https://cdnb.artstation.com/p/assets/images/images/026/992/391/original/pixel-jeff-sailor-moon.gif?1590300229"/>
-</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/protasiox/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaela-protasio-brito-5136a523b/) 
