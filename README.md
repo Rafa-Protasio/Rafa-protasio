@@ -1,9 +1,9 @@
 # 💫 About Me:
-Curious and passionate about technology since childhood. 
-Currently studying Systems Analysis and Development at Faculdade Descomplica and also participating in the Mais1Code bootcamp in partnership with Grupo SBF
+Currently studying Systems Analysis and Development at Faculdade Descomplica
+and also participating in the Mais1Code bootcamp in partnership with Grupo SBF
 
 <div align="center">
-<img width="40%" alt="Gif" src="https://cdnb.artstation.com/p/assets/images/images/026/992/391/original/pixel-jeff-sailor-moon.gif?1590300229"/>
+<img width="50%" alt="Gif" src="https://cdnb.artstation.com/p/assets/images/images/026/992/391/original/pixel-jeff-sailor-moon.gif?1590300229"/>
 
 
 ## 🌐 Socials:
