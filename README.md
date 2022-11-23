@@ -1,9 +1,10 @@
 # 💫 About Me:
-Currently studying Systems Analysis and Development at Faculdade Descomplica
-and also participating in the Mais1Code bootcamp in partnership with Grupo SBF
-
+🪐 Currently studying Systems Analysis and Development
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/faculdade/b/">Faculdade Descomplica</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
 <div align="center">
-<img width="50%" alt="Gif" src="https://cdnb.artstation.com/p/assets/images/images/026/992/391/original/pixel-jeff-sailor-moon.gif?1590300229"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador">
 
 
 ## 🌐 Socials:
@@ -17,9 +18,3 @@ and also participating in the Mais1Code bootcamp in partnership with Grupo SBF
 ![](https://github-readme-stats.vercel.app/api?username=Rafa-Protasio&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rafa-Protasio&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Protasio&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rafa-Protasio&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rafa-Protasio&icon=2&color=12)](https://visitcount.itsvg.in)
