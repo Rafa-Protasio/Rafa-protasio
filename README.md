@@ -1,5 +1,4 @@
 # 💫 About Me:
-🪐 Currently studying Systems Analysis and Development
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/faculdade/b/">Faculdade Descomplica</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript**.
