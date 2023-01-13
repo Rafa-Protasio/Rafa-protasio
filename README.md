@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rafa-protasio&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafa-protasio&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rafa-protasio&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-protasio&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafa-protasio&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
