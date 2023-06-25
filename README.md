@@ -6,7 +6,7 @@
 
 ## I am Rafaela Protasio
 
-(Node JS | Javascript | Typescript | Postgrees | MySQl | MongoDB) 
+(NodeJS | Javascript | Typescript | PostgreSQL | MySQl | MongoDB) 
 
 
 - 🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://descomplica.com.br/faculdade/b/">College Descomplica</a>.
