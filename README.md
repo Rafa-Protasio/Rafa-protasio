@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-(NodeJS | Javascript | Typescript | PostgreSQL | MySQl | MongoDB) 
+(NodeJS | Javascript | PostgreSQL | MySQl | MongoDB) 
 
 
 - 🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://descomplica.com.br/faculdade/b/">College Descomplica</a>.
