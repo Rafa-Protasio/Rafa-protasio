@@ -1,6 +1,6 @@
 # Hi There!
 
-- 🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://descomplica.com.br/faculdade/b/">College Descomplica</a>.
+- 🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://descomplica.com.br/faculdade/b/">Descomplica</a>.
 -  &#128161; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Love a good challenge
 
