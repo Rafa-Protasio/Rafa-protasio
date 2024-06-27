@@ -1,17 +1,27 @@
-# Olá, eu sou Rafaela Protasio!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🎓 Estudante de Ciências da Computação na <a href="https://descomplica.com.br/faculdade/b/">Descomplica</a>.
-- 💡 Explorando e desenvolvendo soluções inovadoras
-- 🌱 Aprendendo Java
-- ⚡ Fato engraçado: Tenho 8 gatos e sou uma ávida leitora
+<p align="left"> 
+  Oi, sou a Rafa Protasio! <strong>Desenvolvedora Back-end Java</strong>.<br>
+  Atualmente, estudo Ciências da Computação na <a href="https://descomplica.com.br/faculdade/b/">Descomplica</a>.
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/RafaProtasio#9366) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://rafaelaprotasio.medium.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaela-protasio/) 
+<p align="left">
+  🦄 Linguagens: Java | Kotlin | Ruby
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+<p align="left">
+  💼 Ferramentas: Intellij | Apache Maven | Docker
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafa-protasio&theme=nightowl&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-protasio&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  💌 Caso tenha gostado de algo, queira discutir sobre uma oportunidade de trabalho ou apenas conversar: ⤵️
+</p>
 
-
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelaprotasiobrito" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/https://www.linkedin.com/in/rafaela-protasio/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+</p>
