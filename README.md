@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java | Kotlin | Ruby
+  🦄 Linguagens: Python | JavaScript | NodeJS | Typescript
 </p>
 
 <p align="left">
-  💼 Ferramentas: Intellij | Apache Maven | Docker
+  💼 Ferramentas: Visual Studio Code | Docker
 </p>
 
 <p align="left">
