@@ -17,8 +17,6 @@
   💌 Caso tenha gostado de algo, queira discutir sobre uma oportunidade de trabalho ou apenas conversar: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelaprotasiobrito@gmail.com)](mailto:rafaelaprotasiobrito@gmail.com)" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rafaela-protasio/)](https://www.linkedin.com/in/rafaela-protasio/)" alt="LinkedIn"/></a>
+
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RafaProtasio#9366)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaela-protasio) 
