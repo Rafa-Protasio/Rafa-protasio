@@ -2,15 +2,14 @@
 
 <p align="left"> 
   Oi, sou a Rafa Protasio! <strong>Desenvolvedora Back-end</strong>.<br>
-  Atualmente, estudo Ciências da Computação na <a href="https://descomplica.com.br/faculdade/b/">Descomplica</a>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python | JavaScript | NodeJS | Typescript
+  🦄 Linguagens: C# | .NET | ASP.NET | JavaScript | NodeJS
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code | Docker
+  💼 Ferramentas: Visual Studio Code | Docker | SQL Sever
 </p>
 
 <p align="left">
