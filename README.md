@@ -5,11 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python| Django | Ruby on Rails | JavaScript
-</p>
-
-<p align="left">
-  💼 Ferramentas: Visual Studio Code | Docker | SQL Sever
+  🦄 Linguagens: JavaScript | Typescript | ReactJS | React Native
 </p>
 
 <p align="left">
