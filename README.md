@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C# | .NET | ASP.NET | JavaScript | NodeJS
+  🦄 Linguagens: Python| Django | Ruby on Rails | JavaScript
 </p>
 
 <p align="left">
