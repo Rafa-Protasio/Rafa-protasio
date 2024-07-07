@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: Excel | Google Sheets | PostgreSQL | Microsoft SQL Sever | Tableau | Python
+  🦄 Habilidades: Excel | Google Sheets | SQL | Tableau | Python
 </p>
 
 <p align="left">
