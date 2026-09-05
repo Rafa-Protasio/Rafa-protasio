@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, sou a Rafa Protasio! <strong>Analista de Dados</strong>.<br>
+  Hello, I'm Rafaela Protasio! <strong>Software Engineer</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Habilidades: Excel | Google Sheets | SQL | Tableau | Python
+  🦄 Skills: Javascript | React | Nodejs | Typescript | Ruby on Rails
 </p>
 
 <p align="left">
-  💌 Caso tenha gostado de algo, queira discutir sobre uma oportunidade de trabalho ou apenas conversar: ⤵️
+  💌 If you liked something, want to discuss a job opportunity or just talk: ⤵️
 </p>
 
 
